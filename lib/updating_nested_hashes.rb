@@ -62,7 +62,6 @@ def add_characters
 
 
 
-binding.pry
 
 
    # After your code, the following line will return the altered hash
